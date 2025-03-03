@@ -8,3 +8,5 @@ INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES
 ('Grinch', 7, 'M', 'green', 'grumpy', 1),            -- A grumpy male bear
 ('Wendy', 1, 'F', 'pink', 'cheerful', 1),            -- A cheerful female bear
 (NULL, 0, 'M', 'unknown', 'unknown', 1);              -- An unnamed bear
+
+
